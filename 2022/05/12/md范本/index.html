@@ -80,7 +80,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> Word count:</span>
-            <span class="post-count">182</span>
+            <span class="post-count">192</span>
         </span>
     </span>
 
@@ -96,6 +96,8 @@
  
     </div>
       
+    <div class="tocbot"></div>
+
 
 
 
@@ -103,17 +105,14 @@
     <div class="article-entry" itemprop="articleBody">
        
   <p>@<a href="%E8%BF%99%E9%87%8C%E5%86%99%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9B%AE%E5%BD%95%E6%A0%87%E9%A2%98">笔记</a></p>
-<ol>
-<li><strong>全新的界面设计</strong> ，将会带来全新的写作体验；</li>
-<li>在创作中心设置你喜爱的代码高亮样式，Markdown <strong>将代码片显示选择的高亮样式</strong> 进行展示；</li>
-<li>增加了 <strong>图片拖拽</strong> 功能，你可以将本地的图片直接拖拽到编辑区域直接展示；</li>
-<li>全新的 <strong>KaTeX数学公式</strong> 语法；</li>
-<li>增加了支持<strong>甘特图的mermaid语法[^1]</strong> 功能；</li>
-<li>增加了 <strong>多屏幕编辑</strong> Markdown文章功能；</li>
-<li>增加了 <strong>焦点写作模式、预览模式、简洁写作模式、左右区域同步滚轮设置</strong> 等功能，功能按钮位于编辑区域与预览区域中间；</li>
-<li>增加了 <strong>检查列表</strong> 功能。</li>
+<h2 id="依赖注入方式选择"><a href="#依赖注入方式选择" class="headerlink" title="依赖注入方式选择"></a>依赖注入方式选择</h2><ol>
+<li><strong>强制依赖</strong>使用<strong>构造器</strong>进行，使用setter注入有概率不进行注入导致null对象的出现；</li>
+<li><strong>可选依赖</strong>使用<strong>setter注入</strong>进行，灵活性强；</li>
+<li>Spring框架倡导使用构造器，第三方框架内部多采用构造器注入的形式进行数据的初始化，相对严谨；</li>
+<li>如果有必要可以两者同时使用，使用构造器注入完成强制依赖的注入，使用setter注入完成可选依赖的注入；</li>
+<li>实际开发过程还要根据实际情况分析，如果受控对象<strong>没有提供setter方法</strong>就必须使用构造器注入；</li>
+<li><strong>自己开发的模块推荐使用setter注入</strong>；</li>
 </ol>
-<p>、</p>
  
       <!-- reward -->
       
