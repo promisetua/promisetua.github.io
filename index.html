@@ -11,7 +11,7 @@
         name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1"
       />
-      <title> 胜天半子</title>
+      <title> 猫</title>
   <meta name="generator" content="hexo-theme-ayer">
       
       <link rel="shortcut icon" href="/favicon.ico" />
@@ -59,7 +59,7 @@
       <img src="/images/cover8.jpg" alt="image frame" />
     </div>
     <div class="cover-inner text-center text-white">
-      <h1><a href="/">胜天半子</a></h1>
+      <h1><a href="/">猫</a></h1>
       <div id="subtitle-box">
         
         <span id="subtitle"></span>
@@ -99,22 +99,6 @@
   
 <div id="main">
   <section class="outer">
-  
-  <ul class="ads">
-    
-        <li>
-            <a target="_blank" rel="noopener" href="https://curl.qcloud.com/kvO7hb43">
-                <img src="https://pic.imgdb.cn/item/62174b452ab3f51d912a5ccc.jpg" width="300" alt="云服务器限时秒杀">
-            </a>
-        </li>
-    
-        <li>
-            <a target="_blank" rel="noopener" href="https://www.vultr.com/?ref=8630075">
-                <img src="https://pic.imgdb.cn/item/62174b452ab3f51d912a5cd7.png" width="300" alt="vultr优惠vps">
-            </a>
-        </li>
-    
-</ul>
   
   
   
@@ -189,23 +173,7 @@
   <time datetime="2022-05-12T08:21:47.000Z" itemprop="datePublished">2022-05-12</time>
 </a>    
     </div>
-      
-    <div class="article-entry" itemprop="articleBody">
        
-  <p>@<a href="%E8%BF%99%E9%87%8C%E5%86%99%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9B%AE%E5%BD%95%E6%A0%87%E9%A2%98">笔记</a></p>
-<h2 id="依赖注入方式选择"><a href="#依赖注入方式选择" class="headerlink" title="依赖注入方式选择"></a>依赖注入方式选择</h2><ol>
-<li><strong>强制依赖</strong>使用<strong>构造器</strong>进行，使用setter注入有概率不进行注入导致null对象的出现；</li>
-<li><strong>可选依赖</strong>使用<strong>setter注入</strong>进行，灵活性强；</li>
-<li>Spring框架倡导使用构造器，第三方框架内部多采用构造器注入的形式进行数据的初始化，相对严谨；</li>
-<li>如果有必要可以两者同时使用，使用构造器注入完成强制依赖的注入，使用setter注入完成可选依赖的注入；</li>
-<li>实际开发过程还要根据实际情况分析，如果受控对象<strong>没有提供setter方法</strong>就必须使用构造器注入；</li>
-<li><strong>自己开发的模块推荐使用setter注入</strong>；</li>
-</ol>
- 
-      <!-- reward -->
-      
-    </div>
-    
 
     <!-- copyright -->
     
@@ -244,14 +212,7 @@
   <time datetime="2022-05-12T08:21:08.000Z" itemprop="datePublished">2022-05-12</time>
 </a>    
     </div>
-      
-    <div class="article-entry" itemprop="articleBody">
        
-   
-      <!-- reward -->
-      
-    </div>
-    
 
     <!-- copyright -->
     
@@ -279,202 +240,7 @@
   <time datetime="2022-05-12T07:35:41.462Z" itemprop="datePublished">2022-05-12</time>
 </a>    
     </div>
-      
-    <div class="article-entry" itemprop="articleBody">
        
-  <p>@<a href="%E8%BF%99%E9%87%8C%E5%86%99%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9B%AE%E5%BD%95%E6%A0%87%E9%A2%98">TOC</a></p>
-<h1 id="欢迎使用Markdown编辑器"><a href="#欢迎使用Markdown编辑器" class="headerlink" title="欢迎使用Markdown编辑器"></a>欢迎使用Markdown编辑器</h1><p>你好！ 这是你第一次使用 <strong>Markdown编辑器</strong> 所展示的欢迎页。如果你想学习如何使用Markdown编辑器, 可以仔细阅读这篇文章，了解一下Markdown的基本语法知识。</p>
-<h2 id="新的改变"><a href="#新的改变" class="headerlink" title="新的改变"></a>新的改变</h2><p>我们对Markdown编辑器进行了一些功能拓展与语法支持，除了标准的Markdown编辑器功能，我们增加了如下几点新功能，帮助你用它写博客：</p>
-<ol>
-<li><strong>全新的界面设计</strong> ，将会带来全新的写作体验；</li>
-<li>在创作中心设置你喜爱的代码高亮样式，Markdown <strong>将代码片显示选择的高亮样式</strong> 进行展示；</li>
-<li>增加了 <strong>图片拖拽</strong> 功能，你可以将本地的图片直接拖拽到编辑区域直接展示；</li>
-<li>全新的 <strong>KaTeX数学公式</strong> 语法；</li>
-<li>增加了支持<strong>甘特图的mermaid语法<a href="%5Bmermaid%E8%AF%AD%E6%B3%95%E8%AF%B4%E6%98%8E%5D(https://mermaidjs.github.io/)">^1</a></strong> 功能；</li>
-<li>增加了 <strong>多屏幕编辑</strong> Markdown文章功能；</li>
-<li>增加了 <strong>焦点写作模式、预览模式、简洁写作模式、左右区域同步滚轮设置</strong> 等功能，功能按钮位于编辑区域与预览区域中间；</li>
-<li>增加了 <strong>检查列表</strong> 功能。</li>
-</ol>
-<h2 id="功能快捷键"><a href="#功能快捷键" class="headerlink" title="功能快捷键"></a>功能快捷键</h2><p>撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd><br>重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd><br>加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd><br>斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd><br>标题：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd><br>无序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd><br>有序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd><br>检查列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd><br>插入代码：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd><br>插入链接：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd><br>插入图片：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd><br>查找：<kbd>Ctrl/Command</kbd> + <kbd>F</kbd><br>替换：<kbd>Ctrl/Command</kbd> + <kbd>G</kbd></p>
-<h2 id="合理的创建标题，有助于目录的生成"><a href="#合理的创建标题，有助于目录的生成" class="headerlink" title="合理的创建标题，有助于目录的生成"></a>合理的创建标题，有助于目录的生成</h2><p>直接输入1次<kbd>#</kbd>，并按下<kbd>space</kbd>后，将生成1级标题。<br>输入2次<kbd>#</kbd>，并按下<kbd>space</kbd>后，将生成2级标题。<br>以此类推，我们支持6级标题。有助于使用<code>TOC</code>语法后生成一个完美的目录。</p>
-<h2 id="如何改变文本的样式"><a href="#如何改变文本的样式" class="headerlink" title="如何改变文本的样式"></a>如何改变文本的样式</h2><p><em>强调文本</em> <em>强调文本</em></p>
-<p><strong>加粗文本</strong> <strong>加粗文本</strong></p>
-<p>&#x3D;&#x3D;标记文本&#x3D;&#x3D;</p>
-<p><del>删除文本</del></p>
-<blockquote>
-<p>引用文本</p>
-</blockquote>
-<p>H<del>2</del>O is是液体。</p>
-<p>2^10^ 运算结果是 1024.</p>
-<h2 id="插入链接与图片"><a href="#插入链接与图片" class="headerlink" title="插入链接与图片"></a>插入链接与图片</h2><p>链接: <a target="_blank" rel="noopener" href="https://www.csdn.net/">link</a>.</p>
-<p>图片: <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw" alt="Alt"></p>
-<p>带尺寸的图片: ![Alt](<a target="_blank" rel="noopener" href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw">https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw</a> &#x3D;30x30)</p>
-<p>居中的图片: <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center" alt="Alt"></p>
-<p>居中并且带尺寸的图片: ![Alt](<a target="_blank" rel="noopener" href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center">https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center</a> &#x3D;30x30)</p>
-<p>当然，我们为了让用户更加便捷，我们增加了图片拖拽功能。</p>
-<h2 id="如何插入一段漂亮的代码片"><a href="#如何插入一段漂亮的代码片" class="headerlink" title="如何插入一段漂亮的代码片"></a>如何插入一段漂亮的代码片</h2><p>去<a target="_blank" rel="noopener" href="https://mp.csdn.net/console/configBlog">博客设置</a>页面，选择一款你喜欢的代码片高亮样式，下面展示同样高亮的 <code>代码片</code>.</p>
-<pre><code class="javascript">// An highlighted block
-var foo = &#39;bar&#39;;
-​```
-
-## 生成一个适合你的列表
-
-- 项目
-  - 项目
-    - 项目
-
-1. 项目1
-2. 项目2
-3. 项目3
-
-- [ ] 计划任务
-- [ ] 完成任务
-
-## 创建一个表格
-
-一个简单的表格是这么创建的：
-
-| 项目 | Value |
-| ---- | ----- |
-| 电脑 | $1600 |
-| 手机 | $12   |
-| 导管 | $1    |
-
-### 设定内容居中、居左、居右
-
-使用`:---------:`居中
-使用`:----------`居左
-使用`----------:`居右
-
-|     第一列     |         第二列 | 第三列         |
-| :------------: | -------------: | :------------- |
-| 第一列文本居中 | 第二列文本居右 | 第三列文本居左 |
-
-### SmartyPants
-
-SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例如：
-|    TYPE   |ASCII                          |HTML
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`&#39;Isn&#39;t this fun?&#39;`            |&#39;Isn&#39;t this fun?&#39;            |
-|Quotes          |`&quot;Isn&#39;t this fun?&quot;`            |&quot;Isn&#39;t this fun?&quot;            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-## 创建一个自定义列表
-
-Markdown
-:  Text-to-HTML conversion tool
-
-Authors
-:  John
-:  Luke
-
-## 如何创建一个注脚
-
-一个具有注脚的文本。[^2]
-
-[^2]: 注脚的解释
-
-##  注释也是必不可少的
-
-Markdown将文本转换为 HTML。
-
-*[HTML]:   超文本标记语言
-
-## KaTeX数学公式
-
-您可以使用渲染LaTeX数学表达式 [KaTeX](https://khan.github.io/KaTeX/):
-
-Gamma公式展示 $\Gamma(n) = (n-1)!\quad\forall
-n\in\mathbb N$ 是通过欧拉积分
-
-$$
-\Gamma(z) = \int_0^\infty t^&#123;z-1&#125;e^&#123;-t&#125;dt\,.
-$$
-
-&gt; 你可以找到更多关于的信息 **LaTeX** 数学表达式[here][1].
-
-## 新的甘特图功能，丰富你的文章
-
-```mermaid
-gantt
-        dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
-        section 现有任务
-        已完成               :done,    des1, 2014-01-06,2014-01-08
-        进行中               :active,  des2, 2014-01-09, 3d
-        计划一               :         des3, after des2, 5d
-        计划二               :         des4, after des3, 5d
-​```
-
-- 关于 **甘特图** 语法，参考 [这儿][2],
-
-## UML 图表
-
-可以使用UML图表进行渲染。 [Mermaid](https://mermaidjs.github.io/). 例如下面产生的一个序列图：
-
-```mermaid
-sequenceDiagram
-张三 -&gt;&gt; 李四: 你好！李四, 最近怎么样?
-李四--&gt;&gt;王五: 你最近怎么样，王五？
-李四--x 张三: 我很好，谢谢!
-李四-x 王五: 我很好，谢谢!
-Note right of 王五: 李四想了很长时间, 文字太长了&lt;br/&gt;不适合放在一行.
-
-李四--&gt;&gt;张三: 打量着王五...
-张三-&gt;&gt;王五: 很好... 王五, 你怎么样?
-​```
-
-这将产生一个流程图。:
-
-```mermaid
-graph LR
-A[长方形] -- 链接 --&gt; B((圆))
-A --&gt; C(圆角长方形)
-B --&gt; D&#123;菱形&#125;
-C --&gt; D
-​```
-
-- 关于 **Mermaid** 语法，参考 [这儿][3],
-
-## FLowchart流程图
-
-我们依旧会支持flowchart的流程图：
-
-```mermaid
-flowchat
-st=&gt;start: 开始
-e=&gt;end: 结束
-op=&gt;operation: 我的操作
-cond=&gt;condition: 确认？
-
-st-&gt;op-&gt;cond
-cond(yes)-&gt;e
-cond(no)-&gt;op
-​```
-
-- 关于 **Flowchart流程图** 语法，参考 [这儿][4].
-
-## 导出与导入
-
-###  导出
-
-如果你想尝试使用此编辑器, 你可以在此篇文章任意编辑。当你完成了一篇文章的写作, 在上方工具栏找到 **文章导出** ，生成一个.md文件或者.html文件进行本地保存。
-
-### 导入
-
-如果你想加载一篇你写过的.md文件，在上方工具栏可以选择导入功能进行对应扩展名的文件导入，
-继续你的创作。
-
-[1]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-[2]: https://mermaidjs.github.io/
-[3]: https://mermaidjs.github.io/
-[4]: http://adrai.github.io/flowchart.js/
-</code></pre>
- 
-      <!-- reward -->
-      
-    </div>
-    
 
     <!-- copyright -->
     
@@ -513,14 +279,7 @@ cond(no)-&gt;op
   <time datetime="2022-05-11T09:54:20.000Z" itemprop="datePublished">2022-05-11</time>
 </a>    
     </div>
-      
-    <div class="article-entry" itemprop="articleBody">
        
-   
-      <!-- reward -->
-      
-    </div>
-    
 
     <!-- copyright -->
     
@@ -559,27 +318,7 @@ cond(no)-&gt;op
   <time datetime="2022-05-11T03:45:27.381Z" itemprop="datePublished">2022-05-11</time>
 </a>    
     </div>
-      
-    <div class="article-entry" itemprop="articleBody">
        
-  <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
- 
-      <!-- reward -->
-      
-    </div>
-    
 
     <!-- copyright -->
     
@@ -658,7 +397,7 @@ cond(no)-&gt;op
 <nav class="navbar">
   
   <div class="logo">
-    <a href="/"><img src="/favicon.ico" alt="胜天半子"></a>
+    <a href="/"><img src="/favicon.ico" alt="猫"></a>
   </div>
   
   <ul class="nav nav-main">
@@ -865,7 +604,9 @@ cond(no)-&gt;op
 <script src="/js/busuanzi-2.3.pure.min.js"></script>
  
 <!-- ClickLove -->
-
+ 
+<script src="/js/clickLove.js"></script>
+ 
 <!-- ClickBoom1 -->
 
 <!-- ClickBoom2 -->
@@ -929,7 +670,9 @@ cond(no)-&gt;op
 </script>
  
 <!-- CanvasBackground -->
-
+ 
+<script src="/js/dz.js"></script>
+ 
 <script>
   if (window.mermaid) {
     mermaid.initialize({ theme: "forest" });
@@ -943,7 +686,7 @@ cond(no)-&gt;op
     
     
     <iframe frameborder="no" border="1" marginwidth="0" marginheight="0" width="200" height="52"
-        src="//music.163.com/outchain/player?type=2&id=22707008&auto=1&height=32"></iframe>
+        src="//music.163.com/outchain/player?type=2&id=536622304&auto=1&height=32"></iframe>
 </div>
 
 <style>
