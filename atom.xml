@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-20T07:48:35.272Z</updated>
+  <updated>2024-05-20T14:32:57.504Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>强力下载器IDM</title>
+    <link href="http://example.com/2024/05/20/%E5%BC%BA%E5%8A%9B%E4%B8%8B%E8%BD%BD%E5%99%A8IDM/"/>
+    <id>http://example.com/2024/05/20/%E5%BC%BA%E5%8A%9B%E4%B8%8B%E8%BD%BD%E5%99%A8IDM/</id>
+    <published>2024-05-20T13:43:17.000Z</published>
+    <updated>2024-05-20T14:32:57.504Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>IDM简介</strong></p><p>Internet Download Manager (简称IDM) Windows 平台功能强大的多线程下载工具，国外非常受欢迎。</p><p>功能和特点：</p><p>支持断点续传，支持嗅探视频音频，接管所有浏览器，具有站点抓取、批量下载队列、计划任务下载，自动识别文件名、静默下载、网盘下载支持等功能。</p><p><strong>IDM测试截图</strong></p><img src="https://gitee.com/promisetua/typora-image/raw/master/image-20240520220902317.png" alt="image-20240520220902317" style="zoom: 50%;"/><p>IDM软件就在<a href="http://www.internetdownloadmanager.com/">官网</a>直接下载就好</p><p><a href="https://www.aliyundrive.com/s/STN1sJ3wXpa">激活工具下载</a>好后解压，管理员权限打开下面这个程序</p><p><img src="https://gitee.com/promisetua/typora-image/raw/master/image-20240520223251991.png" alt="image-20240520223251991"></p><p>然后在这个界面里，如果你已经安装了软件，那么直接选择“1”进行鸡和，如果没下载软件，点“4”下载软件后，再点“1”进行激活。</p><img src="https://gitee.com/promisetua/typora-image/raw/master/640" alt="图片" style="zoom:50%;" /><p>然后过程填写一个ID作为激活账户然后等程序结束就好了。</p><p>这时候打开IDM已经成功激活。</p><p><img src="https://gitee.com/promisetua/typora-image/raw/master/image-20240520222608147.png" alt="image-20240520222608147"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;IDM简介&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Internet Download Manager (简称IDM) Windows 平台功能强大的多线程下载工具，国外非常受欢迎。&lt;/p&gt;
+&lt;p&gt;功能和特点：&lt;/p&gt;
+&lt;p&gt;支持断点续传，支持嗅探视频音频，接管所有</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>阅读app</title>
     <link href="http://example.com/2024/05/20/%E9%98%85%E8%AF%BBapp/"/>
     <id>http://example.com/2024/05/20/%E9%98%85%E8%AF%BBapp/</id>
     <published>2024-05-20T07:25:18.000Z</published>
-    <updated>2024-05-20T07:48:35.272Z</updated>
+    <updated>2024-05-20T07:53:42.436Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>第一款：阅读+书源</strong></p><p>阅读这款APP虽然作者停更了，但是软件还是挺强大的，只要有人制作书源，那么软件有没有人维护现在都是非常优秀！</p><p>今天带来的书源有点多，大家文末自己去获取。我在这里给大家介绍导入的方法。</p><p>我的方法是把书源发到VX的文件助手里，然后保存到本地。</p><p><img src="/../image/640.webp" alt="图片"></p><p><img src="/../image/640-1716191241800-22.webp" alt="图片"></p><p>打开阅读的APP，找到“书源管理”，然后选择“本地导入”。</p><p><img src="/../image/640-1716191241800-23.webp" alt="图片"></p><p><img src="/../image/640-1716191241800-24.webp" alt="图片"></p><p>然后选择“自带文件选择器”，找到“Download—WeiXin”，选择刚刚保存的书源进行导入即可。</p><p><img src="/../image/640-1716191241800-25.webp" alt="图片"></p><p><img src="/../image/640-1716191241800-26.webp" alt="图片"></p><p>如果有网络资源，也可以通过网络的导入方式。</p><p><img src="/../image/640-1716191241800-27.webp" alt="图片"></p><p>网络的源我找了几个，但测试后发现跟本地的源差不多，在这里我就不给大家提供了！</p><p><strong>第二款：番茄小说</strong></p><p>番茄小说大家都不陌生，也是出了起点之外的最热门的小说阅读App，而是是全免费书籍，但是我们应用商店下载的版本，广告很多，非常影响阅读体验，今天推荐一个基本没广告番茄小说的版本，记得不要更新！</p><p>下载地址：<a href="https://pan.baidu.com/s/1v32Rh1USVnScxh-RErYNyg?pwd=rc36">百度网盘</a></p><p><img src="/../image/e8828775872ac4852eff00b1c993f70.jpg" alt="e8828775872ac4852eff00b1c993f70"></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>第一款：阅读+书源</strong></p><p>阅读这款APP虽然作者停更了，但是软件还是挺强大的，只要有人制作书源，那么软件有没有人维护现在都是非常优秀！</p><p>今天带来的书源有点多，大家文末自己去获取。我在这里给大家介绍导入的方法。</p><p>我的方法是把书源发到VX的文件助手里，然后保存到本地。</p><p><img src="/../image/640.webp" alt="图片"></p><p><img src="/../image/640-1716191241800-22.webp" alt="图片"></p><p>打开阅读的APP，找到“书源管理”，然后选择“本地导入”。</p><p><img src="/../image/640-1716191241800-23.webp" alt="图片"></p><p><img src="/../image/640-1716191241800-24.webp" alt="图片"></p><p>然后选择“自带文件选择器”，找到“Download—WeiXin”，选择刚刚保存的书源进行导入即可。</p><p><img src="/../image/640-1716191241800-25.webp" alt="图片"></p><p><img src="/../image/640-1716191241800-26.webp" alt="图片"></p><p>如果有网络资源，也可以通过网络的导入方式。</p><p><img src="/../image/640-1716191241800-27.webp" alt="图片"></p><p>网络的源我找了几个，但测试后发现跟本地的源差不多，在这里我就不给大家提供了！</p><p><strong>第二款：番茄小说</strong></p><p>番茄小说大家都不陌生，也是出了起点之外的最热门的小说阅读App，而是是全免费书籍，但是我们应用商店下载的版本，广告很多，非常影响阅读体验，今天推荐一个基本没广告番茄小说的版本，记得不要更新！</p><p>下载地址：<a href="https://pan.baidu.com/s/1v32Rh1USVnScxh-RErYNyg?pwd=rc36">百度网盘</a></p><img src="../image/e8828775872ac4852eff00b1c993f70.jpg" alt="" style="zoom:33%;" />]]></content>
     
     
       
@@ -64,9 +87,9 @@
     <link href="http://example.com/2024/05/20/MyFirstTest/"/>
     <id>http://example.com/2024/05/20/MyFirstTest/</id>
     <published>2024-05-20T05:17:23.000Z</published>
-    <updated>2024-05-20T06:50:55.290Z</updated>
+    <updated>2024-05-20T08:53:59.493Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-第一个Java程序"><a href="#1-第一个Java程序" class="headerlink" title="1.第一个Java程序"></a>1.第一个Java程序</h2><p>下面看一个简单的Java程序，它将打印字符串Hello World</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">System.out.prinyln(&quot;Hello World!&quot;);</span><br></pre></td></tr></table></figure><p><img src="/../image/123.jpeg" alt="好看的1080x1920风景手机壁纸-中关村在线手机壁纸"></p><p><img src="/../image/image-20240520145050798.png" alt="image-20240520145050798"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-第一个Java程序"><a href="#1-第一个Java程序" class="headerlink" title="1.第一个Java程序"></a>1.第一个Java程序</h2><p>下面看一个简单的Java程序，它将打印字符串Hello World</p><!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title>菜鸟教程(runoob.com)</title> </head> <body>    <h1>我的第一个标题</h1>    <p>我的第一个段落。</p> </body> </html><p>1</p><img border="0" src="https://tse2-mm.cn.bing.net/th/id/OIP-C.iudZ1yP32cFWVCR9VGxbrQHaHa?rs=1&pid=ImgDetMain" alt="Pulpit rock" width="304" height="228" style="zoom:80%;float=left;" ><p>2</p><img src="/image/OIP-C.jpeg" alt="Pulpit rock" style="zoom:33%;float=left;" /><p>3</p><img src="/image/image-20240520162035050.png" alt="image-20240520162035050" style="zoom:33%;" /><img src="https://gitee.com/promisetua/typora-image/raw/master/t01f9ae4d8522766398.png" alt="并集交集符号怎么记_360新知" style="zoom: 67%;" />]]></content>
     
     
       
