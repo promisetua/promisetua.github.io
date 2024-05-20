@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-20T06:50:55.290Z</updated>
+  <updated>2024-05-20T07:08:30.955Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EV录屏</title>
+    <link href="http://example.com/2024/05/20/EV%E5%BD%95%E5%B1%8F/"/>
+    <id>http://example.com/2024/05/20/EV%E5%BD%95%E5%B1%8F/</id>
+    <published>2024-05-20T07:03:12.000Z</published>
+    <updated>2024-05-20T07:08:30.955Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="EV录屏（PC端）"><a href="#EV录屏（PC端）" class="headerlink" title="EV录屏（PC端）"></a>EV录屏（PC端）</h3><p>下载链接：<a href="https://pan.baidu.com/s/1CMYzvCs9lJL_YQf9QPCetQ?pwd=8888">百度</a>，<a href="https://pan.quark.cn/s/96b7b847d739">夸克</a>，<a href="https://www.alipan.com/s/DkLfSS4iWMA">阿里</a></p><p>现在的EV录屏是会员制度，但是其会员是针对一些高级功能，对于普通的录屏功能，它完全免费。</p><p>今天介绍的这个版本是2016版，其原是绿色版本，被千千制作成了单文件版，这个版本是完全免费，无时长录制限制，无水印。</p><p><img src="/../image/640.png" alt="图片"></p><p>EV录屏可以“本地录制”，也可以“在线直播”，录制方式分为【视频录制】和【音频录制】两种。</p><p><strong>视频录制：</strong>视频录制可以全屏录制、选区录制、摄像头录制和不录制视频这几项。</p><p><img src="/../image/640-1716188613355-1.png" alt="图片"></p><p><strong>音频录制：</strong>音频录制可以单独录制麦克风声音、系统声音，也可以麦和系统声音一起录制，当然也可以选择不录音频。</p><p><img src="/../image/640-1716188613355-2.webp" alt="图片"></p><p><strong>辅助工具：</strong>除了视频和音频录制，软件还有辅助工具，有图片水印、文字水印，还可以嵌入摄像头和本地直播。</p><p><img src="/../image/640-1716188613355-3.webp" alt="图片"></p><p><strong>保存：</strong>录制后好的视频在【列表】里有显示，需要更改存储路径可以点“更改目录”。</p><p><img src="/../image/640-1716188613355-4.webp" alt="图片"></p><p>此外，在<strong>【设置】</strong>中有基本设置、光标设置、定时设置、本地存盘、网络直播和快捷方式这几项。</p><p><img src="/../image/640-1716188613356-5.webp" alt="图片"></p><p>特别这里的<strong>“快捷键</strong>”，可以自己设置喜欢的热键，方便大家录制时快速使用！</p><p><img src="/../image/640-1716188613356-6.webp" alt="图片"></p><p>其他的大家自己去体验，软件就介绍到这里啦！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;EV录屏（PC端）&quot;&gt;&lt;a href=&quot;#EV录屏（PC端）&quot; class=&quot;headerlink&quot; title=&quot;EV录屏（PC端）&quot;&gt;&lt;/a&gt;EV录屏（PC端）&lt;/h3&gt;&lt;p&gt;下载链接：&lt;a href=&quot;https://pan.baidu.com/s/1CMY</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>MyFirstTest</title>
