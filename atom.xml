@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-20T06:18:38.276Z</updated>
+  <updated>2024-05-20T06:50:55.290Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2024/05/20/MyFirstTest/"/>
     <id>http://example.com/2024/05/20/MyFirstTest/</id>
     <published>2024-05-20T05:17:23.000Z</published>
-    <updated>2024-05-20T06:18:38.276Z</updated>
+    <updated>2024-05-20T06:50:55.290Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-第一个Java程序"><a href="#1-第一个Java程序" class="headerlink" title="1.第一个Java程序"></a>1.第一个Java程序</h2><p>下面看一个简单的Java程序，它将打印字符串Hello World</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">System.out.prinyln(&quot;Hello World!&quot;);</span><br></pre></td></tr></table></figure><p><img src="/../image/123.jpeg" alt="好看的1080x1920风景手机壁纸-中关村在线手机壁纸"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-第一个Java程序"><a href="#1-第一个Java程序" class="headerlink" title="1.第一个Java程序"></a>1.第一个Java程序</h2><p>下面看一个简单的Java程序，它将打印字符串Hello World</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">System.out.prinyln(&quot;Hello World!&quot;);</span><br></pre></td></tr></table></figure><p><img src="/../image/123.jpeg" alt="好看的1080x1920风景手机壁纸-中关村在线手机壁纸"></p><p><img src="/../image/image-20240520145050798.png" alt="image-20240520145050798"></p>]]></content>
     
     
       
