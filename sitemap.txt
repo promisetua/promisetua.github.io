@@ -1,7 +1,7 @@
-http://example.com/2024/05/20/%E9%98%85%E8%AF%BBapp/
-http://example.com/css/modify.css
-http://example.com/2024/05/20/%E5%BC%BA%E5%8A%9B%E4%B8%8B%E8%BD%BD%E5%99%A8IDM/
-http://example.com/2024/05/20/EV%E5%BD%95%E5%B1%8F/
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/
+http://promisetua.github.io.com/2024/05/20/%E9%98%85%E8%AF%BBapp/
+http://promisetua.github.io.com/css/modify.css
+http://promisetua.github.io.com/2024/05/20/%E5%BC%BA%E5%8A%9B%E4%B8%8B%E8%BD%BD%E5%99%A8IDM/
+http://promisetua.github.io.com/2024/05/20/EV%E5%BD%95%E5%B1%8F/
+http://promisetua.github.io.com/tags/index.html
+http://promisetua.github.io.com/categories/index.html
+http://promisetua.github.io.com/
