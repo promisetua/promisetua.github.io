@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://promisetua.github.io/2024/07/09/%E5%89%8D%E7%AB%AF/</loc>
+    
+    <lastmod>2024-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://promisetua.github.io/2024/07/07/%E5%8F%8D%E5%B0%84/</loc>
+    
+    <lastmod>2024-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://promisetua.github.io/2024/06/27/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</loc>
+    
+    <lastmod>2024-07-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://promisetua.github.io/2024/06/05/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
     
     <lastmod>2024-06-20</lastmod>
@@ -100,10 +127,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://promisetua.github.io/2024/07/09/VS%20Code%20%E5%AE%89%E8%A3%85%E6%96%87%E6%A1%A3/</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://promisetua.github.io/</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-07-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
